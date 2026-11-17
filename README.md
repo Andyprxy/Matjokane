@@ -19,7 +19,7 @@ In GitHub repository Settings → Pages, publish from your chosen branch and the
 Directory routes use trailing slashes and never expose index.html in the navigation. For local use, extract the whole ZIP first and double-click the root index.html. To open the admin directly, double-click admin/index.html. Local links explicitly open each page’s index.html; when hosted, the routing helper automatically keeps clean directory URLs. Do not browse files inside the compressed ZIP. Browser-local storage behaviour depends on browser settings; keep the same browser and folder path and export important demo work.
 
 ## Media and presentation
-See IMAGE-GUIDE.md for exact filenames. The latest supplied convoy image is included as a real WebP hero with the left purple gradient. Home and Services now include the three supplied service photographs and a generated floral image, all WebP. Story and gallery photographs are installed. Optional admin fleet photos still use designed placeholders. Add your approved team, service, gallery and fleet images at the documented paths.
+See IMAGE-GUIDE.md for exact filenames. The latest supplied convoy image is included as a real WebP hero with the left navy gradient. Home and Services now include the three supplied service photographs and a generated floral image, all WebP. Story and gallery photographs are installed. Optional admin fleet photos still use designed placeholders. Add your approved team, service, gallery and fleet images at the documented paths.
 
 ## Admin
 Open /admin/. See ADMIN-GUIDE.md. Includes editable A4 documents, local draft saving, customer and payment records, claims tracking, coffin stock movements and fleet records. All seed records and prices are fictional demonstration data.
@@ -33,6 +33,12 @@ Responsive navigation, gallery filters/lightbox, optional video players, printab
 JavaScript syntax and local static references checked. Browser checks covered the latest hero, document calculations, draft save/reopen after reload, customer prefill and stock movement recording. Confirm business details, product terms, media rights and company identity fields before publication; see SOURCES.md.
 
 ## Updated navigation
-Admin groups: Workspace (Overview), Documentation (Document studio), Customers & accounts (Customers, Payments, Claim requests), Resources (Fleet management, Coffin inventory), Administration (Business details). A moving lavender glass bubble highlights the active tab; reduced-motion preferences disable animation.
+Admin groups: Workspace (Overview), Documentation (Document studio), Customers & accounts (Customers, Payments, Claim requests), Resources (Fleet management, Coffin inventory), Administration (Business details). A moving blue glass bubble highlights the active tab; reduced-motion preferences disable animation.
 
 Latest update: founding year corrected to 2008 from client confirmation; Oupa tribute expanded from the supplied remembrance. Header admin icon opens the portal. The floating Let’s talk button opens WhatsApp at +27 83 304 2400.
+
+## Phone layout update
+The hero keeps its horizontal navy fade with the vehicle on the right. Story, tribute and service sections retain left-aligned text and right-hand images. Service cards use horizontal layouts, gallery uses two columns, and buttons and form inputs accommodate touch. Browser checks at 320px and 390px frame widths verified the hero, story and services; sampled narrow layouts had no horizontal overflow. Desktop styling is preserved. Image paths are unchanged.
+
+## Navy brand palette
+Primary colour #1C315E, sampled from the supplied Oupa tribute background. Navy replaces navy across the public website, admin interface and printable document accents. Gold remains the accent; mobile and desktop heroes retain their horizontal fades. Image files are unchanged.

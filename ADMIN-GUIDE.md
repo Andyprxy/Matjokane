@@ -8,7 +8,7 @@ Open `/admin/` on the hosted site. The portal intentionally has no pretend login
 3. Select a demonstration customer to prefill their details, or type a recipient manually. Fill the document-specific fields. The preview updates immediately.
 4. For quotes/invoices, add or remove item rows and enter quantities and unit prices. Discount is applied before the selected tax percentage; payments reduce the balance due. Tax defaults to zero. Only enter the applicable verified rate.
 5. Save draft to retain a copy in this browser. Open it from Saved documents to continue editing. Unsaved work is lost when the page reloads. Document numbers are editable; confirm numbering before issuing any actual record.
-6. Click Print / Save as PDF. In the browser print dialog choose Save as PDF, A4, portrait, 100% scale; disable browser headers and footers. Enable background graphics for the purple ribbons. This uses the browser's PDF destination, not a separate PDF service. Longer documents flow onto additional pages.
+6. Click Print / Save as PDF. In the browser print dialog choose Save as PDF, A4, portrait, 100% scale; disable browser headers and footers. Enable background graphics for the navy ribbons. This uses the browser's PDF destination, not a separate PDF service. Longer documents flow onto additional pages.
 
 Keep the demonstration marker enabled for your presentation. Templates are proposed administrative records, not approved company policy wording. Membership and claim forms must be reviewed against the actual provider's requirements before live use.
 

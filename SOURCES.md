@@ -33,7 +33,7 @@ The user supplied a convoy photograph for the homepage. It has been converted to
 ## Client corrections and supplied media — 17 November 2026
 The client confirmed establishment in 2008 and 100% Black ownership. Copy was updated accordingly, using the client-provided mission statement. The supplied 20 September 2025 remembrance identifies Oupa Matjokane as founder, father and brother and describes his vision, leadership and continuing legacy. No death date is inferred. The story now uses this supplied remembrance artwork instead of the earlier anniversary graphic.
 Three client-supplied enhanced photographs are installed for arrangements, transport and graveside setup. The floral image is AI-generated illustrative imagery, not evidence of an actual Matjokane arrangement.
-Generated with the built-in image tool: photorealistic white roses, lilies, muted purple lisianthus and eucalyptus on ivory linen under a white marquee, soft daylight, gold candle accents, no people, text or logos. Saved as assets/images/services/flowers.webp.
+Generated with the built-in image tool: photorealistic white roses, lilies, muted navy lisianthus and eucalyptus on ivory linen under a white marquee, soft daylight, gold candle accents, no people, text or logos. Saved as assets/images/services/flowers.webp.
 
 ## Supplied collection installed — 17 November 2026
 Home story uses b4c81db7, team uses beb785c1, remembrance uses the original supplied blue anniversary artwork. All other newly supplied photographs are in the gallery. Tribute paragraphs remain unchanged. Images were converted to WebP without generative alterations.

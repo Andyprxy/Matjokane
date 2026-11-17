@@ -7,7 +7,7 @@ The four service images are already included and appear on both Home and Service
 | People carrying the casket | assets/images/services/arrangements.webp |
 | Black Mercedes vehicles lined up | assets/images/services/transport.webp |
 | White tents and branded graveside gazebo | assets/images/services/setup.webp |
-| Generated white and purple floral arrangement | assets/images/services/flowers.webp |
+| Generated white and navy floral arrangement | assets/images/services/flowers.webp |
 | Original blue anniversary tribute to Oupa Matjokane | assets/images/story/oupa-tribute.webp |
 | Existing home hero convoy | assets/images/hero/convoy.webp |
 
